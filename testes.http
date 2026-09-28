@@ -18,8 +18,8 @@ POST {{url}}/treinos
 Content-Type: application/json
 
 {
-    "nome": "Peito e triceps",
-    "duracao": 60
+    "nome": "dança",
+    "duracao": 302
 }
 
 
@@ -28,7 +28,7 @@ POST {{url}}/treinos
 Content-Type: application/json
 
 {
-    "nome": "Costas e biceps",
+    "nome": "Costas e quinticeps",
     "duracao": 45
 }
 
